@@ -23,6 +23,7 @@ a {
 /* Link list on the right as a whole unit */
 .navbar-nav {
     margin-left: 60%;
+    font-size: 15px;
 }
 
 /* Individual links from right-hand side link list */
@@ -33,4 +34,7 @@ a {
 .signUpBtn {
     border: 1px solid rgba(74,74,74, .5);
     border-radius: 5px;
+    margin-left: 10px;
+    margin-top: -3px;
+    padding: 1px 0px 3px 10px;
 }
